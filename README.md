@@ -1,6 +1,6 @@
 # Création et design de site Web
 
-582-21W-MA \
+582-21W-MA (cohorte 23602) \
 75 heures (2-3-3)
 
 Maxime Pigeon \
@@ -29,7 +29,7 @@ Ce cours permet de développer spécifiquement la créativité et le sens critiq
 3. Évaluer la qualité du montage
 4. Optimiser le code source
 
-### EHD1 : Adapter le design des interfaces Web animées et interactives (40 heures)
+### EHD1 : Adapter le design des interfaces Web animées et interactives (45 heures)
 
 1. Analyser les besoins selon le devis
 2. Analyser le design et l'interactivité d'une interface Web
@@ -77,7 +77,7 @@ Intégration Web d'une maquette graphique.
 Énoncé : cours 24 \
 Remise : cours 25
 
-Conception et intégration d'une page Web à partir d'une charte graphique donnée.
+Conception et intégration d'une page Web à partir d'une charte graphique donnée. Individuellement. En laboratoire. Durée de trois heures. Critères d'évaluation : respect des consignes, organisation du projet, qualité du design, qualité du code.
 
 ## Calendrier des activités
 
